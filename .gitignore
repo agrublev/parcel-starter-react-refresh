@@ -1,3 +1,6 @@
 .parcel-cache
 # Project exclude paths
 /node_modules/
+.idea
+.cache
+dist
